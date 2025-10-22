@@ -35,7 +35,7 @@ Neste repositório, você encontrará os arquivos da entrega do desafio:
   <tr>
     <td style="padding-right: 20px; vertical-align: top;">
       <a href="https://github.com/juancabrera26">
-        <img src="https://github.com/juancabrera26.png" width="100" alt="Foto de [Seu Nome] no GitHub" style="border-radius: 50%;">
+        <img src="https://github.com/juancabrera26.png" width="100" alt="Foto de Juan Cabrera Cuellar no GitHub" style="border-radius: 50%;">
       </a>
     </td>
     
@@ -43,8 +43,8 @@ Neste repositório, você encontrará os arquivos da entrega do desafio:
       <b>Juan Cabrera Cuellar</b>
       <br/><br/>
       <a href="https://github.com/juancabrera26">GitHub</a> | 
-      <a href="www.linkedin.com/in/juan-david-cabrera-cuellar-1bb7b3168">LinkedIn</a> | 
-      <a href="sites.google.com/view/juandcabreracuellar0/home">Google Site</a>
+      <a href="https://www.linkedin.com/in/juan-david-cabrera-cuellar-1bb7b3168">LinkedIn</a> | 
+      <a href="https://sites.google.com/view/juandcabreracuellar0/home">Google Site</a>
     </td>
   </tr>
 </table>
