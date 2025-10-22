@@ -27,24 +27,34 @@ Neste repositório, você encontrará os arquivos da entrega do desafio:
 * `meus_prompts.txt`: O arquivo de texto com todos os prompts utilizados no processo.
 * `Projeto_podcast_editado.mp3`: O arquivo de áudio final do podcast editado.
 
-* ---
+---
 
 ## 👨‍💻 Autor do Projeto
-
-<table>
-  <tr>
-    <td style="padding-right: 20px; vertical-align: top;">
-      <a href="https://github.com/juancabrera26">
-        <img src="https://github.com/juancabrera26.png" width="100" alt="Foto de Juan Cabrera Cuellar no GitHub" style="border-radius: 50%;">
-      </a>
-    </td>
-    
-    <td style="vertical-align: middle;">
-      <b>Juan Cabrera Cuellar</b>
-      <br/><br/>
-      <a href="https://github.com/juancabrera26">GitHub</a> | 
-      <a href="https://www.linkedin.com/in/juan-david-cabrera-cuellar-1bb7b3168">LinkedIn</a> | 
-      <a href="https://sites.google.com/view/juandcabreracuellar0/home">Google Site</a>
-    </td>
-  </tr>
-</table>
+<p>
+    <img 
+      align=left 
+      style="margin-right: 15px;"
+      width=80 
+      src="https://github.com/juancabrera26.png"
+    />
+    <p>&nbsp&nbsp&nbspJuan Cabrera Cuellar<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/juancabrera26">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/juan-david-cabrera-cuellar-1bb7b3168">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://sites.google.com/view/juandcabreracuellar0/home">
+        Personal site
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+ 
