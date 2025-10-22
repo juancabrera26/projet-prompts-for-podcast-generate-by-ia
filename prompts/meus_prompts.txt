@@ -1,0 +1,49 @@
+
+ROTEIRISTA:
+
+
+Você é um roteirista de podcast, e vamos criar um podcast de matemáticas, focado em história matemática e educação e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de matemáticas feito por divulgadores de ciência matemática, e que tenha algum trocadilho nerd no nome 
+
+O podcast vai falar sobre curiosidades e novidades no mundo da matemática 
+
+{REGRAS} 
+- O nome deve ser enxuto, interessante, um nome e um subtítulo 
+- O nome tenha algum trocadilho nerd com nomes de franquias conhecidas ou pensadores matemáticos 
+- O nome deve conter alguma palavra forte que remeta a matematicas 
+
+{REGRAS NEGATIVAS} 
+
+- Não quero que o título contenha palavras em inglês
+- Não utilize a palavra matemática no nome nem qualquer variação dela
+
+
+
+--------------------------------------------------
+
+CONTEUDO PODCAST
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de matemáticas, focado em história matemática e educação cujo o nome é "A Sociedade da Equação: A jornada para desvendar os grandes teoremas e problemas" e tem foco em curiosidades e novidades sobre o mundo dá matemáticas,  com o público alvo em matemáticas o formato do roteiro deve ser
+
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+
+{REGRAS}
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Eduardo Sáenz de Cabezón
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade do teoremas de pitágoras
+- no bloco [CURIOSIDADE 2] substitua sobre um dos problemas matemáticos mais famosos a “identidade de Euler”
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Juan Cabrera e esse foi a Sociedade da Equação'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Juan Cabrera
+- O podcast deve ser curto
+
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+—-----------------------------------------------------------------
+
