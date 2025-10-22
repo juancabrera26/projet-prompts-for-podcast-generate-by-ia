@@ -31,28 +31,20 @@ Neste repositório, você encontrará os arquivos da entrega do desafio:
 
 ## 👨‍💻 Autor do Projeto
 
-<table align="center">
+<table>
   <tr>
-    <td align="center">
+    <td style="padding-right: 20px; vertical-align: top;">
       <a href="https://github.com/juancabrera26">
-        <img src="https://github.com/juancabrera26.png" width="150px" alt="Foto de [Seu Nome] no GitHub"/>
-        <br />
-        <sub><b>Juan Cabrera Cuellar</b></sub>
+        <img src="https://github.com/juancabrera26.png" width="100" alt="Foto de [Seu Nome] no GitHub" style="border-radius: 50%;">
       </a>
+    </td>
+    
+    <td style="vertical-align: middle;">
+      <b>Juan Cabrera Cuellar</b>
+      <br/><br/>
+      <a href="https://github.com/juancabrera26">GitHub</a> | 
+      <a href="www.linkedin.com/in/juan-david-cabrera-cuellar-1bb7b3168">LinkedIn</a> | 
+      <a href="sites.google.com/view/juandcabreracuellar0/home">Google Site</a>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <br />
-  <a href="https://github.com/juancabrera26" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="www.linkedin.com/in/juan-david-cabrera-cuellar-1bb7b3168" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="sites.google.com/view/juandcabreracuellar0/home" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Site-4A85F1?style=for-the-badge&logo=google&logoColor=white" alt="Google Site/Portfólio">
-  </a>
-</div>
-
