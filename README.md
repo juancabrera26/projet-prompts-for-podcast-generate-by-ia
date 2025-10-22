@@ -17,9 +17,9 @@ O podcast foi desenvolvido seguindo estes passos:
 
 1.  **Nome:** O nome do podcast foi gerado via ChatGPT.
 2.  **Roteiro:** O roteiro foi gerado e refinado usando o Gemini.
-3.  **Capas:** As artes e capas foram criadas com prompts no ChatGPT (usando DALL-E 3) e no Gemini.
+3.  **Capas:** As artes e capas foram criadas com prompts no ChatGPT e no Gemini.
 4.  **Narração:** O roteiro foi transformado em áudio usando a ElevenLabs.
-5.  **Edição Final:** O CapCut foi usado para tratar o áudio, cortar silêncios e adicionar uma trilha sonora de fundo.
+5.  **Edição Final:** O CapCut foi usado para tratar o áudio e adicionar uma trilha sonora de fundo.
 
 ## 📁 Conteúdo do Repositório
 Neste repositório, você encontrará os arquivos da entrega do desafio:
